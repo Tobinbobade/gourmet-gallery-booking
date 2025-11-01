@@ -16,7 +16,7 @@ const Gallery = () => {
   ];
 
   return (
-    <section className="section-padding bg-background">
+    <section id="gallery" className="section-padding bg-background">
       <div className="container-custom">
         <div className="text-center mb-12 animate-fade-in">
           <h2 className="text-4xl md:text-5xl font-bold mb-4">
